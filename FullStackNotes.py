@@ -3,6 +3,8 @@
 codedamn_url = "https://www.youtube.com/watch?v=SgVXmtMUjbI&t=191s"
 programming_guru_url = "https://www.youtube.com/watch?v=NHNm7VzYvuY"
 tech_projects_url = "https://www.youtube.com/watch?v=vRxfnHtCxEo"
+git_issue_url = "http://vcloud-lab.com/entries/blog/solved-visual-studio-code-make-sure-you-configure-your-user-name-and-user-email-in-git"
+javascript_mastery_url = "https://www.youtube.com/watch?v=xORdz1Hi9Gc"
 
 def oct0623_comments():
     comments = f'''
@@ -21,6 +23,8 @@ def oct0623_comments():
     I watched the following YouTube video for a list of front end and back end things to know: {codedamn_url}
     I watched the following YouTube video to learn how to install node.js into vs code: {programming_guru_url}
     I watched the following YouTube video to learn push my vs code projects to github: {tech_projects_url}
+    I read the following blog because I encountered an issue with GIT when I tried to push my project to github: {git_issue_url}
+    I watched this video on Youtube because it provided a clear roadmap for front end and backend. A lot of good keywords {javascript_mastery_url}
 
     Backend
     Linux (Bash)
@@ -44,6 +48,7 @@ def oct0623_comments():
     Vercel
 
     I am going to include GitHub and GIT as well.
+
     '''
 
     print(comments)
@@ -61,3 +66,10 @@ def greet(person_name):
 
 # Call the function
 greet(name)  # This will print "Hello, Alice!"
+
+#10/17/23
+#I enrolled in cs50 on edx. I started with just watching 30 minutes of the material. 
+#Back on 10/06/23, I watched some videos and took notes. I am going to review those notes and expand upon the information. Here is my challenge:
+# Write ten things, any ten things about each topic I wrote down. Make notes about each video.
+
+#I looked up to to push updates to github
