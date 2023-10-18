@@ -72,4 +72,4 @@ greet(name)  # This will print "Hello, Alice!"
 #Back on 10/06/23, I watched some videos and took notes. I am going to review those notes and expand upon the information. Here is my challenge:
 # Write ten things, any ten things about each topic I wrote down. Make notes about each video.
 
-#I looked up to to push updates to github
+#I looked up to to push updates to github. I figured it out. click source control and click commit
