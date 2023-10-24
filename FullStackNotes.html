@@ -210,18 +210,8 @@
     <a href="https://www.youtube.com/watch?v=__7eOCxJyow" target="_blank">Node.js installation</a></p>
     <p>successful installation!</p>
 
-    const express = require("express");
-const cors = require("cors");
-
-const app = express();
-app.use(express.json());
-app.use(cors({ origin: true }));
-
-app.post("/authenticate", async (req, res) => {
-  const { username } = req.body;
-  return res.json({ username: username, secret: "sha256..." });
-});
-
-app.listen(3001);
+    <p>I ran into an issue. I think this is because I created the repository for this node.js project. So I am recreating the folder for the project and will run it locally. </p>
+    <a href="https://stackoverflow.com/questions/9023672/how-do-i-resolve-cannot-find-module-error-using-node-js" target="_blank">module error</a></p>
+ 
 </body>
 </html>
